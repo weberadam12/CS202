@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-"Adam" 
-=======
-"Names:" 
+Names: 
+Adam
 Mitchell Saatkamp
->>>>>>> ba4ae61e2ec1bff2f9f17e2e345a761c8ff93177
+
